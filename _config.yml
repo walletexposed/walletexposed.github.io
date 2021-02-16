@@ -6,7 +6,7 @@
 
 title: "Wallet.Exposed"
 email: "walletexposed@protonmail.com"
-description: "Wallet.Exposed is a fraud awareness and prevention service dedicated to preventing scams in world of cryptocurrency"
+description: "Wallet.Exposed is a fraud awareness and prevention service dedicated to preventing scams in the world of cryptocurrency"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wallet.exposed" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "walletexposed"
