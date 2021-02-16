@@ -12,6 +12,10 @@ url: "https://wallet.exposed" # the base hostname & protocol for your site, e.g.
 twitter_username: "walletexposed"
 github_username:  "walletexposed"
 
+# Google Analytics Settings (Disabled until Privacy Policy is implemented)
+google_analytics: false
+#google_analytics_id: "UA-189852986-1"
+
 # Build settings
 # NOTE: The "theme" variable below is commented out, as its place is taken by the "remote_theme" variable
 #theme: minima
