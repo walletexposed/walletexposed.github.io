@@ -27,9 +27,9 @@ formspree_endpoint_data_deletion_request: "xgepblrw"
 formspree_endpoint_takedown_request: "xeqpwlpb"
 formspree_endpoint_tip: "xzbkqakq"
 
-# Google Analytics Settings (Disabled until Privacy Policy is implemented)
-google_analytics: false
-#google_analytics_id: "UA-189852986-1"
+# Google Analytics Settings
+google_analytics: true
+google_analytics_id: "UA-189852986-1"
 
 # Build settings
 # NOTE: The "theme" variable below is commented out, as its place is taken by the "remote_theme" variable
