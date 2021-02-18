@@ -12,4 +12,4 @@ Feel free to provide only as many details as you are comfortable sharing. The mo
 
 All submitted webform data is routed through Formspree into our secure ProtonMail inbox, in accordance with the [**Privacy Policy**]({{- site.permalink_privacy_policy -}}).<br />
 
-{%- include form-tip.html -%}
+{%- include form-tip -%}
