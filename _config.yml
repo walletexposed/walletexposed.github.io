@@ -12,6 +12,13 @@ url: "https://wallet.exposed" # the base hostname & protocol for your site, e.g.
 twitter_username: "walletExposed"
 github_username:  "walletexposed"
 
+# Permalinks
+permalink_privacy_policy: "/privacy/"
+permalink_form_tip: "/tips/"
+permalink_form_takedown_request: "/takedown/"
+permalink_form_data_deletion_request: "/data-deletion/"
+permalink_form_data_copy_request: "/data-copy/"
+
 # Formspree Settings
 captcha: true
 captcha_site_key: "6Lfy8lwaAAAAAEHdiQ4la8G7gddq81Op1oXgcyBt"
