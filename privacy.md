@@ -6,7 +6,7 @@ exclude_from_header: true
 ---
 # **Wallet.Exposed Privacy Policy**
 This Privacy Policy is effective as of its first public distribution on **February 17, 2021**.<br />
-It was last updated on **February 17, 2021**.<br /><br />
+It was last updated on **February 18, 2021**.<br /><br />
 
 
 ### **Introduction**
@@ -22,7 +22,8 @@ While it is our goal to expose scams in the cryptocurrency world, we have no des
 We strive to keep your information completely private. We will not sell or rent your personal information to anyone. We will not disclose your personal information except as necessary to provide our services or as otherwise described in this policy. If disclosure of your information is ever required, you will first be provided with notice and the opportunity to consent. <br /><br />
 
 ### **Submission Policy**
-Wallet.Exposed wants to increase awareness surrounding cryptocurrency scams, but we have no desire to expose private information surrounding the identities of any individuals, even scammers themselves. Please do not submit private or otherwise personally identifiable information about any person other than yourself. If you fail to comply with this policy, you may be blocked or otherwise prohibited from submitting information to the Wallet.Exposed team.<br />
+Wallet.Exposed wants to increase awareness surrounding cryptocurrency scams, but we have no desire to expose private information surrounding the identities of any individuals, even scammers themselves.<br />
+When using our [**Submit a Tip**]({{- site.permalink_form_tip -}}) feature, please do not submit private or otherwise personally identifiable information about any person other than yourself. If you fail to comply with this policy, you may be blocked or otherwise prohibited from submitting information to the Wallet.Exposed team.<br />
 All user submissions are screened multiple times before publication in order to avoid the release of any private or otherwise personally identifiable information.<br /><br />
 
 ### **When We Collect Data**
@@ -120,12 +121,12 @@ If you have any questions about or need further information concerning the legal
 Non-English translations of this Policy are provided for convenience only. In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.<br /><br />
 
 ### **Takedown Requests**
-If you believe that any piece of information published by Wallet.Exposed should be taken down, please notify us immediately using the **“Takedown Request”** form. We have no desire to publish any false information, nor do we desire to violate the privacy of any individuals.<br />
+If you believe that any piece of information published by Wallet.Exposed should be taken down, please notify us immediately using the [**Takedown Request**]({{- site.permalink_form_takedown_request -}}) form. We have no desire to publish any false information, nor do we desire to violate the privacy of any individuals.<br />
 We discourage “witch hunting” in all forms, and we do not condone the publication of assumptions or unfounded rumors. Any allegations must be marked clearly as such, both in terms of user-submitted and officially-published information. We are happy to correct any errors within any of our published content at any time.<br /><br />
 
 ### **Privacy Requests**
-You may request a copy of your personal data at any time using the **“Data Copy Request”** form.<br />
-You may request the deletion of your personal data at any time using the **“Data Deletion Request”** form.<br />
+You may request a copy of your personal data at any time using the [**Data Copy Request**]({{- site.permalink_form_data_copy_request -}}) form.<br />
+You may request the deletion of your personal data at any time using the [**Data Deletion Request**]({{- site.permalink_form_data_deletion_request -}}) form.<br />
 For privacy and security reasons, we do not allow copies of webform submissions to be distributed to any recipient other than the original email address associated with a given webform submission. If you lose access to your email account or submit data using an invalid email address, we cannot guarantee the ability to give you a copy of this data. Further, if you do lose access to the email account associated with the submission of personal data, we also cannot guarantee the ability to immediately delete that data upon request. Regardless, the privacy and confidentiality of this data would be maintained until its eventual deletion in the future.<br /><br />
 
 ### **Contact Information**
