@@ -1,5 +1,5 @@
 ---
-title: Wallet.Exposed Privacy Policy
+title: Privacy Policy
 permalink: /privacy/
 layout: default
 exclude_from_header: true
