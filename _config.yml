@@ -12,6 +12,14 @@ url: "https://wallet.exposed" # the base hostname & protocol for your site, e.g.
 twitter_username: "walletExposed"
 github_username:  "walletexposed"
 
+# Formspree Settings
+captcha: true
+captcha_site_key: "6Lfy8lwaAAAAAEHdiQ4la8G7gddq81Op1oXgcyBt"
+formspree_endpoint_data_copy_request: "xpzoejkz"
+formspree_endpoint_data_deletion_request: "xgepblrw"
+formspree_endpoint_takedown_request: "xeqpwlpb"
+formspree_endpoint_tip: "xzbkqakq"
+
 # Google Analytics Settings (Disabled until Privacy Policy is implemented)
 google_analytics: false
 #google_analytics_id: "UA-189852986-1"
