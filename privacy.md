@@ -2,6 +2,7 @@
 title: Wallet.Exposed Privacy Policy
 permalink: /privacy/
 layout: default
+exclude_from_header: true
 ---
 # **Wallet.Exposed Privacy Policy**
 This Privacy Policy is effective as of its first public distribution on **February 17, 2021**.<br />
